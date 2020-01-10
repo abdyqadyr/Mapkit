@@ -1,0 +1,6 @@
+module Pods_MapkitTask {
+  umbrella header "Pods-MapkitTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
